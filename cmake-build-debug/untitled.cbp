@@ -77,6 +77,12 @@
 		<Unit filename="C:/Users/Tanvir/CLionProjects/untitled/main.c">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/Tanvir/CLionProjects/untitled/some_problems.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Tanvir/CLionProjects/untitled/some_problems.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/Tanvir/CLionProjects/untitled/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
