@@ -16,7 +16,7 @@ int main() {
 
     for (int i = 1; i <= line; ++i) {
 
-        printf("Input :");
+        //printf("Input :");
 
         scanf(" %d", &num);
 
@@ -34,17 +34,17 @@ int main() {
         }
 
 
-        printf("Case %d : ", i);
+        printf("Case %d:", i);
 
         for (int j = 1; j <= num; ++j) {
 
             if (num % j == 0) {
-                printf("%d ", j);
+                printf(" %d", j);
             }
 
         }
 
-        printf("\n\n");
+        printf("\n");
 
     }
 
