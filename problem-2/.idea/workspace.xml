@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="problem_solving" targetName="problem_solving" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a522601e-6ae8-4c3f-b86e-bb54f7b48c35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Y15r6P39AG0EFP1MLPvrEl2yXg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="problem_solving" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem_solving" TARGET_NAME="problem_solving" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="problem_solving" RUN_TARGET_NAME="problem_solving">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a522601e-6ae8-4c3f-b86e-bb54f7b48c35" name="Default Changelist" comment="" />
+      <created>1582097455607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582097455607</updated>
+      <workItem from="1582097456782" duration="1934000" />
+      <workItem from="1582111266521" duration="1488000" />
+      <workItem from="1582192346347" duration="1354000" />
+      <workItem from="1582251006679" duration="604000" />
+      <workItem from="1582295942270" duration="9208000" />
+      <workItem from="1582342343360" duration="2044000" />
+      <workItem from="1582371818822" duration="1003000" />
+      <workItem from="1582372911133" duration="41000" />
+      <workItem from="1582373258681" duration="126000" />
+      <workItem from="1582373399563" duration="9000" />
+      <workItem from="1582373547268" duration="1865000" />
+      <workItem from="1583125748578" duration="637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582381279470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582381279470" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582381406102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582381406102" />
+    <state width="1323" height="119" key="GridCell.Tab.0.bottom" timestamp="1583126788725">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="119" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583126788725" />
+    <state width="1877" height="193" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582383993745" />
+    <state width="1323" height="119" key="GridCell.Tab.0.center" timestamp="1583126788724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="119" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583126788724" />
+    <state width="1877" height="193" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582383993744" />
+    <state width="1323" height="119" key="GridCell.Tab.0.left" timestamp="1583126788724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="119" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583126788724" />
+    <state width="1877" height="193" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582383993744" />
+    <state width="1323" height="119" key="GridCell.Tab.0.right" timestamp="1583126788725">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="119" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583126788725" />
+    <state width="1877" height="193" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582383993745" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583125749116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583125749116" />
+    <state x="533" y="269" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582373547510" />
+  </component>
+</project>
