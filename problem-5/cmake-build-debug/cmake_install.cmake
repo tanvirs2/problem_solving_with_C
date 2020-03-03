@@ -1,4 +1,4 @@
-# Install script for directory: D:/problem_solving/c/problem-5
+# Install script for directory: C:/Users/Tanvir/CLionProjects/problem_solving/problem-5
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/problem_solving/c/problem-5/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Tanvir/CLionProjects/problem_solving/problem-5/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
