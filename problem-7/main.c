@@ -3,30 +3,30 @@
 
 int main() {
 
-    int T, n_size;
-    char n[] = "10 36 669";
+    char n[] = "1  2";
 
-    n_size = strlen(n);
+    int sprint = 0;
 
-    for (int i = 0; i < n_size; ++i) {
-
-        //printf("%c", n[i]);
+    for (int i = 0; i < strlen(n); ++i) {
 
 
-        if (n[i] == ' ') {
-            printf(" 1 ");
+        while (n[i] == ' ') {
+            ++i;
+
+            sprint++;
         }
-    }
 
-    //printf("%d", strlen(n));
-
-    /*scanf("%d", &T);
-
-
-    for (int i = 0; i < T; ++i) {
+        /*if (n[i] == ' ') {
+            sprint++;
+        }*/
 
     }
 
-    printf("%d\n", T);*/
+    if (n[strlen(n)-1] == ' ') {
+        printf("a %d ", sprint);
+    } else {
+        printf("b %d ", ++sprint);
+    }
+
     return 0;
 }
