@@ -2,31 +2,33 @@
 
 int main() {
 
-    int num[] = {3, 5, 2, 8, 4, 9}, arrSize;
+    int T, n1, n2, n3, storeVar;
 
-    arrSize = (int) sizeof(num) / sizeof(num[0]);
+    scanf("%d", &T);
 
-    for (int i = 0; i < arrSize; ++i) {
+    for (int i = 0; i < T; ++i) {
+        scanf("%d %d %d", &n1, &n2, &n3);
 
-        for (int j = 0; j < arrSize - i; ++j) {
-
-            if (num[j] > num[j + 1]) {
-
-                int b = num[j];
-
-                num[j] = num[j + 1];
-
-                num[j + 1] = b;
-            }
-
+        if (n1 > n2) {
+            storeVar = n1;
+            n1 = n2;
+            n2 = storeVar; // n1 = 16, n2 = 91, n3 = 12
         }
 
-    }
+        if (n1 > n3) {
+            storeVar = n1;
+            n1 = n3;
+            n3 = storeVar; // n1 = 12, n2 = 91, n3 = 16
+        }
 
-    for (int i = 0; i < (int)sizeof(num)/ sizeof(num[0]); ++i) {
+        if (n2 > n3) {
+            storeVar = n2;
+            n2 = n3;
+            n3 = storeVar; // n1 = 12, n2 = 16, n3 = 91
+        }
 
-        printf("%d ", num[i]);
 
+        printf("%d %d %d \n", n1, n2, n3);
     }
 
     return 0;
