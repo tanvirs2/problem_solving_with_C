@@ -28,7 +28,7 @@ int main() {
         }
 
 
-        printf("%d %d %d \n", n1, n2, n3);
+        printf("Case %d: %d %d %d\n", i+1, n1, n2, n3);
     }
 
     return 0;
