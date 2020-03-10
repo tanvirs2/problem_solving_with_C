@@ -3,6 +3,33 @@
 int main() {
 
     int T, n, sp=0;
+    float temp, sqrt;
+
+    scanf("%d", &T);
+
+    while (T--) {
+
+        scanf("%d", &n);
+
+        sqrt = n / 2;
+        temp = 0;
+
+        while(sqrt != temp){
+            temp = sqrt;
+            sqrt = ( n/temp + temp) / 2;
+        }
+
+        sp = sqrt;
+
+        if (sp == sqrt) {
+            printf("YES\n");
+        } else {
+            printf("No\n");
+        }
+
+    }
+
+    /*int T, n, sp=0;
 
     scanf("%d", &T);
 
@@ -26,7 +53,7 @@ int main() {
         } else {
             printf("NO\n");
         }
-    }
+    }*/
 
 
 
